@@ -12,8 +12,8 @@ Har prøvd å kommentere i alle filer for å forklare hva som skjer og hvorfor j
 
 1. **Klon prosjektet til din lokale maskin:**
    ```bash
-   git clone <https://github.com/LHagfoss/SSR-skole> enVeldigKulMappe
-   cd <enVeldigKulMappe>
+   git clone https://github.com/LHagfoss/SSR-skole enVeldigKulMappe
+   cd enVeldigKulMappe
    ```
 
 2. **Start PostgreSQL-databasen og Next.js-applikasjonen med Docker Compose:**
